@@ -18,4 +18,4 @@ function Navbar(){
     );
 
 }
-export default Navbar;ali ali wahud aaaaa
+export default Navbar;
