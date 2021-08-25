@@ -18,4 +18,4 @@ function Navbar(){
     );
 
 }
-export default Navbar;ali
+export default Navbar;ali ali wahud 
